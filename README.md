@@ -1,5 +1,8 @@
 # Network Sharing Registry Editor
 
+<img width="727" height="683" alt="network_sharing_No7CumuZ4r" src="https://github.com/user-attachments/assets/362d02fa-7eab-414f-81ee-4ac5e16a8b83" />
+
+
 This is a small Windows utility that toggles classic file and printer sharing behavior via registry and firewall changes. It is designed to help when Windows 11 (and Windows 10) file sharing “just does not work” on a small home or lab network, especially after updates. [web:44][web:46][web:47][web:51][web:53][web:54]
 
 It is *not* a security‑hardened solution and should only be used on trusted private networks.
